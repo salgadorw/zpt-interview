@@ -1,0 +1,1 @@
+This is the seed version of the ZPT interview challenge, in ruby.

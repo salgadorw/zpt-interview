@@ -1,3 +1,4 @@
 # @JBonnet, for Zuehlke
 source "https://rubygems.org"
 
+gem "rspec"
